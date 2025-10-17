@@ -1,2 +1,3 @@
 DotNet Developer
-Blockchain Technology Interest, Daaps Developer on Ethereum using Solidity
+Blockchain Developer,
+Daaps Developer on Ethereum using Solidity, IPFS , ICP, NFT
